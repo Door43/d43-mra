@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mra:home|Door43 (mra)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mra|d43-mra repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mra/archive/master.zip|d43-mra.zip]]
+
+**Recent Changes**
+{{changes>ns = mra}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mra|Ethnologue data]]
+
